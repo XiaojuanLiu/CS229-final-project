@@ -1,5 +1,6 @@
 # CS229-final-project
- Stanford CS229 Spring 2021 final project
+ Stanford CS229 Spring 2021 final project  
+ 
  VAERS Data were compressed in vaers.rar
  Total vaccination data in US can be accessed from https://ourworldindata.org/covid-vaccinations#source-information-country-by-country
  
